@@ -5,7 +5,7 @@ const compiledFactory = require('../ethereum/build/CampaignFactory.json')
 let contract;
 
 export const infura = {
-    account_mnemonic: 'wash exercise isolate since behave divorce pear system lamp small water rabbit',
+    account_mnemonic: '',
     endpoints: {
         rinkeby: 'https://rinkeby.infura.io/v3/023a9858cbba44b69d73919b72d1006b',
         ropstein: 'https://ropsten.infura.io/v3/6d597dc42f2a42809aadc9cd98acfe08'
