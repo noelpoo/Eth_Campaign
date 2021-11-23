@@ -4,7 +4,7 @@
 ```shell
 npm install
 ```
-3. Start application on localhost:300
+3. Start application on localhost:3000
 ```shell
 npm run dev
 ```
