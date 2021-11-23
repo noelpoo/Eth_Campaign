@@ -10,5 +10,6 @@ npm run dev
 ```
 4. Deployed contract instance
 ```
-Starting the application should point the application to Factory contract at 0x400171E02fCd10A56525F68d68589d711d1A6Ec6, Ropsten Network
+0x400171E02fCd10A56525F68d68589d711d1A6Ec6, Ropsten Network
 ```
+Starting the application should point the application to Factory contract at ```0x400171E02fCd10A56525F68d68589d711d1A6Ec6```, Ropsten Network
